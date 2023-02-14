@@ -18,4 +18,4 @@ please fork this repo and than issue pull req for review.
 
 ###copyright
 
-2014 git.training
+2014 git.training all right reserved.
